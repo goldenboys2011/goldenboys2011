@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [An GTA SA Radio App](no link yet)
 
-- 💬 Ask me about **anything I guess ¯\_(ツ)_/¯**
+- 💬 Ask me about **anything I guess ¯\\_(ツ)_/¯**
 
 - 📫 How to reach me **golden@goldencube.dev ody.chryssos@gmail.com**
 

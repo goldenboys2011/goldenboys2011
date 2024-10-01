@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Odysseas Chryssos</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Guy From Greece Thats Pacionate With Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goldenboys2011&label=Profile%20views&color=0e75b6&style=flat" alt="goldenboys2011" /> </p>
 

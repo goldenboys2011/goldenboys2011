@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Odysseas Chryssos</h1>
-<h3 align="center">A Guy From Greece Thats Pacionate With Development</h3>
+<h3 align="center">A Guy From Greece Passionate About Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goldenboys2011&label=Profile%20views&color=0e75b6&style=flat" alt="goldenboys2011" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [ the GenAIze Website](https://genaize.gr)
 
-- 💬 Ask me about **anything I guess ¯\\_(ツ)_/¯**
+- 💬 Ask me about **Anything ¯\\_(ツ)_/¯**
 
-- 📫 How to reach me **golden@goldencube.dev ody.chryssos@gmail.com**
+- 📫 How to reach me **ochryssos@genaize.gr//ody.chryssos@gmail.com//golden@goldencube.dev**
 
 - ⚡ Fun fact **Some of my best ideas came while asleep!**
 

@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/goldenboys2011_" target="blank"><img src="https://img.shields.io/twitter/follow/goldenboys2011_?logo=twitter&style=for-the-badge" alt="goldenboys2011_" /></a> </p>
 
-- 🔭 I’m currently working on [An GTA SA Radio App](no link yet)
+- 🔭 I’m currently working on [ the GenAIze Website](https://genaize.gr)
 
 - 💬 Ask me about **anything I guess ¯\\_(ツ)_/¯**
 
 - 📫 How to reach me **golden@goldencube.dev ody.chryssos@gmail.com**
 
-- ⚡ Fun fact **Im dumb as hell**
+- ⚡ Fun fact **Some of my best ideas came while asleep!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

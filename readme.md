@@ -9,7 +9,7 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goldenboys2011&theme=radical" alt="goldenboys2011" /></a> </p>
 </details>
-<p align="left"> <a href="https://twitter.com/goldenboys2011_" target="blank"><img src="https://img.shields.io/twitter/follow/goldenboys2011_?logo=twitter&style=for-the-badge" alt="goldenboys2011_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/goldenboys2011_" target="blank"><img src="https://img.shields.io/twitter/follow/goldenboys2011_?logo=x&style=radical" alt="goldenboys2011_" /></a> </p>
 
 - 🔭 I’m currently working on [ the GenAIze Website](https://genaize.gr)
 

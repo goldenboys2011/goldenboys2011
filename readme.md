@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Odysseas Chryssos</h1>
 <h3 align="center">A Guy From Greece Passionate About Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goldenboys2011&label=Profile%20views&color=0e75b6&style=flat" alt="goldenboys2011" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=goldenboys2011&label=Profile%20views&color=0e75b6&style=flat)
+![Codefactor](https://img.shields.io/badge/Codefactor-A-10b070)
 
 <details>
 <summary>GitHub trophies</summary>

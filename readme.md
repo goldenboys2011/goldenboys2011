@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goldenboys2011&label=Profile%20views&color=0e75b6&style=flat" alt="goldenboys2011" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goldenboys2011" alt="goldenboys2011" /></a> </p>
-
+<details>
+<summary>GitHub trophies</summary>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goldenboys2011&theme=radical" alt="goldenboys2011" /></a> </p>
+</details>
 <p align="left"> <a href="https://twitter.com/goldenboys2011_" target="blank"><img src="https://img.shields.io/twitter/follow/goldenboys2011_?logo=twitter&style=for-the-badge" alt="goldenboys2011_" /></a> </p>
 
 - 🔭 I’m currently working on [ the GenAIze Website](https://genaize.gr)
@@ -14,10 +17,6 @@
 - 📫 How to reach me **ochryssos@genaize.gr//ody.chryssos@gmail.com//golden@goldencube.dev**
 
 - ⚡ Fun fact **Some of my best ideas came while asleep!**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,8 +32,17 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/goldengr"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="goldgr" /></a></p><br><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldenboys2011&show_icons=true&locale=en&layout=compact" alt="goldenboys2011" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=goldenboys2011&show_icons=true&locale=en" alt="goldenboys2011" /></p>
+<details>
+<summary>GitHub Stats</summary>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goldenboys2011&" alt="goldenboys2011" /></p>
+![Odysseas' GitHub stats](https://github-readme-stats-tolisdev.vercel.app/api?username=goldenboys2011&show_icons=true&theme=radical)
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goldenboys2011&theme=radical" alt="goldenboys2011" /></p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldenboys2011&show_icons=true&locale=en&layout=compact&theme=radical" alt="goldenboys2011" /></p>
+
+</details>

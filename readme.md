@@ -11,7 +11,7 @@
 </details>
 <p align="left"> <a href="https://twitter.com/goldenboys2011_" target="blank"><img src="https://img.shields.io/twitter/follow/goldenboys2011_?logo=x&style=radical" alt="goldenboys2011_" /></a> </p>
 
-- 🔭 I’m currently working on [ the GenAIze Website](https://genaize.gr)
+- 🔭 I’m currently working on [Spot.music](https://github.com/goldenboys2011/spot.music)
 
 - 💬 Ask me about **Anything ¯\\_(ツ)_/¯**
 

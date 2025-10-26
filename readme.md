@@ -47,3 +47,13 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldenboys2011&show_icons=true&locale=en&layout=compact&theme=radical" alt="goldenboys2011" /></p>
 
 </details>
+
+## PC Specifications (idk why)
+
+| Component | Details |
+|------------|----------|
+| CPU | Intel Core i5 (4th Gen, 3 Cores) |
+| GPU | NVIDIA GeForce GTX 660 |
+| RAM | 32 GB DDR2 / DDR3 (unsure) |
+| Storage | 1 TB ASUS SSD |
+

@@ -52,7 +52,7 @@
 
 | Component | Details |
 |------------|----------|
-| CPU | Intel Core i5 (4th Gen, 3 Cores) |
+| CPU | Intel Core i5 (4th Gen, 2,4 Ghz) |
 | GPU | NVIDIA GeForce GTX 660 |
 | RAM | 32 GB DDR2 / DDR3 (unsure) |
 | Storage | 1 TB ASUS SSD |

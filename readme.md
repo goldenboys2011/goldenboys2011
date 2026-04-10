@@ -56,5 +56,5 @@
 | CPU | Intel Core i5 (4th Gen, 3,5 Ghz) |
 | GPU | NVIDIA GeForce GTX 660 |
 | RAM | 32 GB DIMM DDR3 1600MHz|
-| Storage | 1 TB ASUS SSD |
+| Storage | 1 TB ASUS SSD / ~ 1 TB HHD|
 
